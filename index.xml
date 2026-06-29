@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuerui Wang</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuerui Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Xuerui Wang</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Aerial Manipulations</title>
+      <link>/project/quadsr/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>/project/quadsr/</guid>
+      <description>&lt;p&gt;Drones have limited load capacities, and developing heavy-lifting drones is costly. Using multiple drones to collaboratively lift a load offers theoretically unlimited load capacities, yet it offers substantial challenges in coordination, planning, estimation, and control. This project aims at algorithmic development to enable agile, robust, and decentralized collaboration to enable collaborative aerial manipulation of a cable-suspended load.&lt;/p&gt;
+&lt;p&gt;We have developed a centralized algorithm, recently published in 
+&lt;a href=&#34;https://www.science.org/doi/abs/10.1126/scirobotics.adu8015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Robotics&lt;/a&gt;. It considers the quadrotors-cables-load system as a whole, and solves the kinodynamic motion planning problem online to generate receding horizon reference trajectories for all quadrotors. The trajectories are subsequently followed by onboard INDI (incremental nonlinear dynamic inversion) controllers to compensate for cable tensions and other external disturbances. Notably, no additional sensors are required to be mounted on the load; instead, the load poses are estimated through quadrotor state estimates. 
+&lt;a href=&#34;https://sihaosun.github.io/ScienceRoboticsCAMLs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo videos can be found here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Data-Driven Optimization of Aerodynamic Performance for an Unconventional Morphing Aircraft</title>
+      <link>/publication/thymenflyingv/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/thymenflyingv/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event-Triggered Adaptive Dynamic Programming for an Aeroservoelastic System: An Experimental Study</title>
+      <link>/publication/bosunetadp/</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/bosunetadp/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unified Aeroelastic Flutter and Loads Control via Data-Enabled Policy Optimization</title>
+      <link>/publication/feirandeepo/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/feirandeepo/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EXAELIA</title>
+      <link>/project/exaelia/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/project/exaelia/</guid>
+      <description>&lt;p&gt;Towards flying testbeds for novel long-range aircraft. Developing radically-changed aircraft concepts comes with high investments and risks.&lt;/p&gt;
+&lt;p&gt;The objective of 
+&lt;a href=&#34;https://exaelia.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EXAELIA&lt;/a&gt; is to evaluate flying testbeds that are needed for de-risking the development of those disruptive future long-range aircraft.&lt;/p&gt;
+&lt;p&gt;Our main contributions to this project are developing a free-flying aeroelastic aircraft model and designing a nonlinear data-driven control for the next generation of commerical aircraft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AIAA Online Course</title>
+      <link>/course/aiaa-online-course/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/course/aiaa-online-course/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AWATAR</title>
+      <link>/project/awatar/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/project/awatar/</guid>
+      <description>&lt;p&gt;AWATAR - 
+&lt;a href=&#34;https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101140588/HORIZON&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Wing MATuration And integRation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The aeronautical industry is committed to a collective goal of net-zero carbon emissions by 2050. In addition to optimized flight operations and Sustainable Aviation Fuels deployment, two fundamental enablers to reach this target are the introduction of LH2 technologies and new solutions increasing aircraft and engine efficiency.
+In order to accelerate the Entry Into Service of ultra-efficient hydrogen SMR aircraft, AWATAR develops a Very High Aspect Ratio, Strut-Braced, Dry-Wing characterized by laminar portions in the outer areas, advanced integrated leading edge systems and an optimized integration of an open-rotor propulsion system. With the purpose of anticipating and accelerating future certification processes, the targeted maturation relies on high-fidelity simulations and ground tests (ETW, S2MA, Collins’ Icing wind tunnel).&lt;/p&gt;
+&lt;p&gt;In terms of performance benefits, progress to be made in AWATAR leads to substantial gains with respect to a 2020 state-of-the-art aircraft. The novel aerodynamic configuration with a large aspect ratio targets a drag reduction at aircraft level of 18%. Regarding the Advanced Leading Edge solution integrating the ice protection system, the investigated technology aims for a 50% reduction of the energy budget needed for a fully evaporative system. For laminarity, the expected aircraft drag reduction is about 5-10% depending on the configuration. In addition, the optimized integration of the Unducted Single Fan limits installation drag to less than 4% of total aircraft drag. Overall, AWATAR aims at an integrated SMR aircraft (250 passengers - 2000 nm) offering an 18% reduction in block energy. This 36 months, 20MEuros valued project (14MEuros funding) relies on a strong consortium made of 2 Aircraft manufacturers, 1 Aerospace components supplier, 3 research Centers, 1 Wind tunnel Operator and 2 universities. This complementary and multidisciplinary consortium ensures that AWATAR maturity path is in line with Clean Aviation SMR roadmap.&lt;/p&gt;
+&lt;p&gt;Our main contribution to this project is a control co-design optimization framework aiming for gust load alleviation and weight reduction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE1130-II Dynamics</title>
+      <link>/course/dynamics/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/course/dynamics/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UP Wing</title>
+      <link>/project/upwing/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/project/upwing/</guid>
+      <description>&lt;p&gt;UpWing - 
+&lt;a href=&#34;https://cordis.europa.eu/project/id/101101974&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ultra Performance Wing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The EU’s Clean Aviation objectives aim to reduce carbon dioxide emissions, noise and other pollutants from aviation activities in Europe. In this context, the EU-funded UP Wing project will develop key technologies for ultra-efficient short/medium-range aircraft. Specifically, it will integrate ultra-performance wing concepts with the aim of achieving a minimum fuel burn reduction of 30 % compared to the state-of-the-art reference Aircraft A321neo. Bringing together an interdisciplinary consortium consisting of airframe integrators, industry, research establishments, and academia, the project will develop enabling technologies. The project’s outcomes will be well aligned with the development plans of future aircraft entering into service in 2035 with 75 % market penetration until 2050.&lt;/p&gt;
+&lt;p&gt;A sketch of the project can be found in this 
+&lt;a href=&#34;https://www.youtube.com/watch?v=MjrX6GvPGD8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Vedio&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our main contribution to this project is a nonlinear, data-driven control algorithm designed to reduce gust-induced loads on the wing in transonic flow conditions. This will result in reduced structural weight and improved efficiency. This control approach will be validated through transonic wind tunnel experiments in 2025.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE5051 Internship</title>
+      <link>/course/ae5051-internship/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/course/ae5051-internship/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black-Box Online Aerodynamic Performance Optimization for a Seamless Wing with Distributed Morphing</title>
+      <link>/publication/oscarjgcd/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/oscarjgcd/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On-Line Black-Box Aerodynamic Performance Optimization for a Morphing Wing With Distributed Sensing and Control</title>
+      <link>/publication/oscartcst/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/oscartcst/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active Fault-Tolerant Incremental Sliding-Mode Flight Control Against Control Reversal</title>
+      <link>/publication/jingjgcd/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jingjgcd/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE3200 Design Synthesis (DSE)</title>
+      <link>/course/dse/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/course/dse/</guid>
+      <description>&lt;p&gt;This is the BSc graduation project of TU Delft. To finalise their bachelor programme third-year bachelor’s students at the Faculty of Aerospace Engineering are required to collaborate in groups of ten students in a period of ten weeks to make a design in the field of aviation, space, earth observation or related field. During the project, students go through the complete design process, from drawing up a program of demands, concept analysis and design, concept selection to the presentation of the final design. I acted as the principal instructor for Group 26, a ten-student project entitled &amp;ldquo;Air-Guard, A bio-inspired counter-drone morphing UAV&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Nonlinear Incremental Flight Control for Systems with Unknown Control Effectiveness</title>
+      <link>/publication/jingtaes/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jingtaes/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AERO0003 Flight Dynamics and Control</title>
+      <link>/course/belgium/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/course/belgium/</guid>
+      <description>&lt;p&gt;This is a MSc profile course at the University of Liège, Belgium. This course focuces on the flight dynamics and control of fixed-wing aircaft and helicopter. I was invited by 
+&lt;a href=&#34;https://scholar.google.com/citations?user=i7puvt4AAAAJ&amp;amp;hl=en&amp;amp;oi=sra&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Grigorios Dimitriadis&lt;/a&gt; and 
+&lt;a href=&#34;https://scholar.google.com/citations?user=hWAm2FEAAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Christophe Collette&lt;/a&gt; to give three four-hour lectures physically at the University of Liège. My lectures cover the control design as well as stability and robustness analysis of fixed-wing and helicopter aircraft flight control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision-Based Nonlinear Incremental Control for A Morphing Wing with Mechanical Imperfections</title>
+      <link>/publication/bosunvision/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/bosunvision/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WM0324LR Ethics and Engineering for Aerospace</title>
+      <link>/course/ethics/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/course/ethics/</guid>
+      <description>&lt;p&gt;This is an MSc profile course. This course describes and analyses the responsibility of engineers in the light of philosophical, historical and juridical backgrounds. Topics covered include 1) Description and analysis of the problems encountered by engineers who want to act responsibly; 2) Codes of ethics for engineers. 3) Argumentation and reasoning. 4) Uncertainty, ignorance, risks, and their implications for responsible behaviour. 5) (Philosophical) ethics, the foundation of (criteria) for good and bad, right and wrong, responsible and irresponsible behaviour; 6) Responsibility within and of organizations; 7) the role of law. Since 2021, I act as a tutor and essay supervisor for the course in every Q3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aeroelastic Wing Demonstrator with a Distributed and Decentralized Control Architecture</title>
+      <link>/publication/tigranscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tigranscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Black-box Online Aerodynamic Performance Optimization for a Seamless Wing with Distributed Morphing</title>
+      <link>/publication/oscarscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/oscarscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrete-time Design and Stability Analysis for Nonlinear Incremental Fault-tolerant Flight Control</title>
+      <link>/publication/jingscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jingscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling and Handling Quality Assessment of the Flying-V Aircraft</title>
+      <link>/publication/simonscitech2022/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/simonscitech2022/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Event-triggered intelligent critic control with input constraints applied to a nonlinear aeroelastic system</title>
+      <link>/publication/bosunevent/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bosunevent/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental fault-tolerant control for a hybrid quad-plane UAV subjected to a complete rotor loss</title>
+      <link>/publication/quadplane/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/quadplane/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI for Aerospace Control and Optimization</title>
+      <link>/project/aiaerocontrol/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/project/aiaerocontrol/</guid>
+      <description>&lt;p&gt;Artificial Intelligence (AI) has great potential to solve the control and optimization problems of aerospace systems. In this project, we explore the following possibilties:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Online aerodynamic performance optimization&lt;/li&gt;
+&lt;li&gt;Gust and maneuver load alleviation&lt;/li&gt;
+&lt;li&gt;Fault-tolerant control&lt;/li&gt;
+&lt;li&gt;Suppression of limit-cycle oscillations&lt;/li&gt;
+&lt;li&gt;Mechanical imperfection compensation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Incremental Control for Flexible Aircraft Trajectory Tracking and Load Alleviation</title>
+      <link>/publication/glider/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/glider/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seamless Active Morphing Wing Simultaneous Gust and Maneuver Load Alleviation</title>
+      <link>/publication/activemorphing/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/activemorphing/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seamless Active Morphing Wing</title>
+      <link>/project/seamlessmorphing/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/seamlessmorphing/</guid>
+      <description>&lt;p&gt;Active morphing indicates the ability to transform structural shape in a controlled way. Inspired by birds, the active morphing wing can adapt its shape in different flight conditions for optimizing the aerodynamic performance. Moreover, wing morphing surfaces can be used as direct lift control devices for alleviating the structural loads caused by gusts and maneuvers. Furthermore, wing morphing can execute flight control commands with reduced drag.&lt;/p&gt;
+&lt;p&gt;The Smart and Aeroelastic Structure research group in Delft University of Technology has designed, manufactured, and tested a seamless active morphing wing named 
+&lt;a href=&#34;https://www.youtube.com/watch?v=SdagIiYRWyA&amp;amp;t=316s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SmartX-Alpha&lt;/strong&gt;&lt;/a&gt;. It has six translation-induced camber morphing trailing edge modules, interconnected seamlessly by elastomer materials. Each one of the modules is executed by two independent servos, which allows both camber and twist morphings. The wing is made in fiberGlass weave material, and its laminate design is optimized by a fluid-structure  interaction tool.&lt;/p&gt;
+&lt;p&gt;The SmartX-Alpha prototype won the Student Hardware Competition in the American Society of Mechanical Engineers (ASME) 2020 conference on smart materials, adaptive structures and intelligent systems. If you would like to know more, please check the 
+&lt;a href=&#34;https://www.youtube.com/watch?v=SdagIiYRWyA&amp;amp;t=316s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;SmartX-Alpha video&lt;/strong&gt;&lt;/a&gt; and a journalistic article entitled 
+&lt;a href=&#34;https://www.delta.tudelft.nl/article/flexible-wing-flies-feeling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flexible wing flies with feeling&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE4311 Non-linear and Adaptive Flight Control</title>
+      <link>/course/ae4311/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/course/ae4311/</guid>
+      <description>&lt;p&gt;This is an MSc elective course. It introduces nonlinear and adaptive control techniques to enhance the reconfigurability of aircraft flight control systems. Advanced nonlinear and adaptive control techniques such as Adaptive Nonlinear Dynamic Inversion (ANDI), Incremental Nonlinear Dynamic Inversion (INDI), Adaptive Backstepping (ABS) and Incremental Backstepping are described together with applications to fault-tolerant and reconfigurable aircraft flight control system designs. I am a guest lecturer for the INDI control theory part in every Q4 since 2020.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor Fault Tolerant Control</title>
+      <link>/project/quadrotorftc/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/quadrotorftc/</guid>
+      <description>&lt;p&gt;As the most commonly used and simplest multi-rotor drones, quadrotors are
+especially vulnerable to rotor failures because they lack rotor redundancy. This project aims at introducing novel flight control methods to mitigate the consequence of in-flight motor failures, which rarely happens but is still a big safety threat after large scale deployment of drones in the future.&lt;/p&gt;
+&lt;p&gt;To be specific, the project leverages incremental nonlinear dynamic inversion (INDI) control method, to stabilize and control a quadrotor with failure of a 
+&lt;a href=&#34;/publication/highspeedral/&#34;&gt;&lt;strong&gt;single rotor&lt;/strong&gt;&lt;/a&gt; or 
+&lt;a href=&#34;/publication/incrementalnonlinear/&#34;&gt;&lt;strong&gt;two opposing rotors&lt;/strong&gt;&lt;/a&gt;, under significant aerodynamic disturbances. These strong aerodynamic effects are dominant in high-speed flight, or windy conditions. Thanks to the robustness of the INDI controller, the damaged quadrotor maintains controllable in spite of these aeordynamic disturbances.&lt;/p&gt;
+&lt;p&gt;We have validated the proposed controllers in a large scale wind tunnel, named 
+&lt;a href=&#34;https://www.tudelft.nl/lr/organisatie/afdelingen/aerodynamics-wind-energy-flight-performance-and-propulsion/facilities/low-speed-wind-tunnels/open-jet-facility/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Open Jet Facility&lt;/strong&gt;&lt;/a&gt; at TU Delft. Despite a complete loss of one or two propellers, the tested quadrotor can maintain high-speed flight. In addition to validating the controller, these wind tunnel flight tests have produced valuable data for identifying 
+&lt;a href=&#34;/project/quadrotormodeling&#34;&gt;&lt;strong&gt;aerodynamic models&lt;/strong&gt;&lt;/a&gt; of a quadrotor, in both nominal and damaged conditions.&lt;/p&gt;
+&lt;p&gt;Another focus of the research aims at recovering the damaged quadrotor after motor failure. When a motor failure is detected, a quadrotor might have been entered a detrimental flight condition, such as an upside-down orientation, where the drone can hardly recover to stable flights using the state-of-art methods.
+Therefore, we have developed an 
+&lt;a href=&#34;/publication/upsetrecovery/&#34;&gt;&lt;strong&gt;upset recovery controller&lt;/strong&gt;&lt;/a&gt;, using a novel control allocation approach.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental Nonlinear Fault-Tolerant Control of a Quadrotor With Complete Loss of Two Opposing Rotors</title>
+      <link>/publication/incrementalnonlinear/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/incrementalnonlinear/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flexible Aircraft Control</title>
+      <link>/project/flexibleac/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/flexibleac/</guid>
+      <description>&lt;p&gt;Increasing the aspect-ratio of the wing is a trend in modern commercial aircraft design. This increase is beneficial for the aerodynamic performance of the aircraft. Moreover, to reduce the airframe weight, composite materials are widely used in modern aircraft. For example, the Boeing 787 Dreamliner aircraft uses 80% composite by volume, and 50% composite by weight. Although composite materials provide the same load-carrying capacity with less structural weight, the resulting structural rigidity also decreases. With the coaction of high aspect-ratio and wide usage of composite materials, modern commercial aircraft are becoming more and more flexible.&lt;/p&gt;
+&lt;p&gt;This trend leads to considerable interactions among aerodynamics, structural dynamics, and flight dynamics. If not harnessed properly, the interactions can lead to severe structural vibrations and even instabilities. In view of this, we conduct interdisciplinary research on flexible aircraft dynamic control with multiple objectives:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flutter suppression&lt;/li&gt;
+&lt;li&gt;Gust and maneuver load alleviation&lt;/li&gt;
+&lt;li&gt;Handling quality and passenger comfort enhancement&lt;/li&gt;
+&lt;li&gt;Automatic trajectory control&lt;/li&gt;
+&lt;li&gt;Fault-tolerant control&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE4ASM522 Applied Aircraft Aeroelasticity</title>
+      <link>/course/ae4asm522/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/course/ae4asm522/</guid>
+      <description>&lt;p&gt;This course is an MSc elective as a follow-up of AE4ASM506 Fundamentals of Aeroelasticity. This course presents three more advanced topics in aeroelasticity. 1) nonlinear aeroelasticity; 2) flexible aircraft flight dynamics; 3) panel methods. Understanding the contents of this course will prepare the student for the design of future aircraft configurations. Since 2020, I am in charge of the design, teaching, and assessment of the flexible aircraft flight dynamics and a part of nonlinear aeroelasticity in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Flying-V Aircraft</title>
+      <link>/project/flyingv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/flyingv/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.tudelft.nl/en/ae/flying-v&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Flying-V&lt;/strong&gt;&lt;/a&gt; is a specific type of flying wing that is tailless, V-shaped, and consists of two cylindrical pressurised cabins located at the leading edge of the wing. The design of a Flying-V aircraft concept contains several benefits compared to conventional tube-and-wing aircraft. The main advantage of this type of aircraft is the reduction of wetted area and frictional drag since one structure integrates the structural function of accommodating payload and the aerodynamic function of providing lift. Furthermore, this type of aircraft suffers less from interference drag due to the smooth shape of the configuration. Additionally, the reduced wetted area per unit of useful volume results in a reduction of the zero-lift drag. Therefore, this type of aircraft can achieve a higher lift-to-drag ratio compared to conventional aircraft and hence has a reduced fuel burn and takeoff weight. Research on the aerodynamic advantages of the Flying-V presents that the aircraft can have aerodynamic efficiency gains ranging from 10% to 25% compared to conventional tube-and-wing aircraft of similar size and weight while reducing the noise level due to the location of the engines on top of the wing. This project focuses on the dynamic modelling, handling quality assessment, and control design for the Flying V aircraft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor fault-tolerant incremental nonsingular terminal sliding mode control</title>
+      <link>/publication/quad_intsmc/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/quad_intsmc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>﻿Comparison of three control structures for inducing higher-order sliding modes</title>
+      <link>/publication/hosmc/</link>
+      <pubDate>Sat, 15 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hosmc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quadrotor fault tolerant incremental sliding mode control driven by sliding mode disturbance observers</title>
+      <link>/publication/quadsmdo/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/quadsmdo/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flexible Aircraft Gust Load Alleviation with Incremental Nonlinear Dynamic Inversion</title>
+      <link>/publication/flexiblegla/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/flexiblegla/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensing, Actuation, and Control of the SmartX Prototype Morphing Wing in the Wind Tunnel</title>
+      <link>/publication/smartx/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/smartx/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stability Analysis for Incremental Nonlinear Dynamic Inversion Control</title>
+      <link>/publication/stability/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/stability/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental Sliding-Mode Fault-Tolerant Flight Control</title>
+      <link>/publication/f16_indi_smc/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/f16_indi_smc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Incremental Backstepping Sliding-Mode Fault-Tolerant Flight Control</title>
+      <link>/publication/ibsmc/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ibsmc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aircraft Fault Tolerant Control</title>
+      <link>/project/aircraft_ftc/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/aircraft_ftc/</guid>
+      <description>&lt;p&gt;The main goal of this research is to improve aircraft safety by developing advanced nonlinear control methods that can tolerate actuator faults, structural damage and atmospheric disturbances. One of the featured methods is the incremental sliding mode control, which is a hybrid between the sensor-based incremental control and the robust sliding mode control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/teaching/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-speed flight of quadrotor despite loss of single rotor</title>
+      <link>/publication/highspeedral/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/highspeedral/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active Gust Load Alleviation of High-Aspect Ratio Flexible Wing Aircraft</title>
+      <link>/publication/yvonne/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/yvonne/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effects of Aeroelastic Tailoring on Flight Dynamic Stability</title>
+      <link>/publication/mario_paper/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mario_paper/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AE2235-II Signal Analysis and Telecommunication Principles</title>
+      <link>/course/ae2235signal/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <guid>/course/ae2235signal/</guid>
+      <description>&lt;p&gt;This is a BSc course that focuses on signal acquisition, processing and filtering. By learning this course, students will be able to apply frequency domain techniques to signal conditioning and processing, know building blocks and electronic components, apply signal modulation, produce a signal link budget, evaluate stability properties of closed and open-loop systems, and tune control systems with classical tuning methods. It also contains an experimental classroom, in which real-world derives including Light Sensor under a Rotating Disc, Accelerometer on a Cantilever Beam, Rate Gyro on a Pendulum, Pressure Sensor behind a Propeller that help students to understand Fourier transforms, aliasing, leakage, etc. Since 2017, I act an experimental classroom tutor in every Q4.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Delta Fixed wing has a new publication on </title>
+      <link>/post/smartx/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/post/smartx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On structural property metrics for Model Error of linear systems</title>
+      <link>/publication/acc_paper/</link>
+      <pubDate>Wed, 06 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/acc_paper/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Control Theory</title>
+      <link>/project/nonlineartheory/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/project/nonlineartheory/</guid>
+      <description>&lt;p&gt;This page contains our contributions to the control community. We proposed a new sensor-based incremental control framework for generic multi-input and multi-output nonlinear systems with an arbitrary relative degree. The closed-loop stability in the presence of model uncertainties and external disturbances are proved using Lyapunov methods. The robustness of the system to regular and singular perturbations are also analyzed.&lt;/p&gt;
+&lt;p&gt;For mitigating the chattering effect in the sliding mode control (SMC), many adaptation mechanisms have been proposed to reduce the switching gains. However, less attention is paid to the control structure, which influences the resulting uncertainty term and determines the minimum possible gains. Our research compares three control structures for inducing higher-order sliding modes in finite time: nonlinear dynamic inversion (NDI) based SMC, higher-order sliding mode control (HOSMC) with artificially increased relative degree, and the recently proposed incremental nonlinear dynamic inversion (INDI) based SMC.&lt;/p&gt;
+&lt;p&gt;We also define the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/recognitions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/recognitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/services/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
