@@ -7,30 +7,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 4.8.0">
 
-  
 
   
-  
-  
-  
-  
-    
-    
-    
-  
-  
 
-  <meta name="author" content="Xuerui Wang">
+  <meta name="author" content="Xinpeng Fang">
 
   
   
   
     
   
-  <meta name="description" content="This paper defines the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM).">
+  <meta name="description" content="In this article, an adaptive finite-time fault-tolerant control (FTC) strategy is proposed for state tracking of uncertain
+systems subject to actuator faults and input saturation. The actuator faults, which include multiplicative and time-varying additive modes, are allowed to be unknown. To deal with the coupling of the unknown model uncertainties and the actuator faults, an adaptive mechanism is designed based on a wisely chosen Lyapunov function. The proposed finite-time FTC scheme, with adaptive laws of uncertain parameters, guarantees the stability of the closed-loop system, and the practical finite-time state tracking property. Then, the algorithm is applied to a flight control system, simulation and comparison results demonstrate the effectiveness and advantages of the designed control scheme.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/acc_paper/">
+  <link rel="alternate" hreflang="en-us" href="/publication/tsmc_finitetime_ftc/">
 
   
 
@@ -72,122 +63,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
-    
-
-    
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
+  
       
 
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
       
     
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-      
-
-      
-      
-        
-      
-
-      
-    
-      
-
-      
-      
-
-      
-    
-
-  
-
+     
   
   
   
@@ -217,7 +100,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="/publication/acc_paper/">
+  <link rel="canonical" href="/publication/tsmc_finitetime_ftc/">
 
   
   
@@ -231,11 +114,12 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Xuerui Wang">
-  <meta property="og:url" content="/publication/acc_paper/">
-  <meta property="og:title" content="On structural property metrics for Model Error of linear systems | Xuerui Wang">
-  <meta property="og:description" content="This paper defines the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM)."><meta property="og:image" content="/publication/acc_paper/featured.png">
-  <meta property="twitter:image" content="/publication/acc_paper/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:site_name" content="Xinpeng Fang">
+  <meta property="og:url" content="/publication/tsmc_finitetime_ftc/">
+  <meta property="og:title" content="Adaptive Finite-Time Fault-Tolerant Control of Uncertain Systems With Input Saturation | Xinpeng Fang">
+  <meta property="og:description" content="In this article, an adaptive finite-time fault-tolerant control (FTC) strategy is proposed for state tracking of uncertain
+systems subject to actuator faults and input saturation. The actuator faults, which include multiplicative and time-varying additive modes, are allowed to be unknown. To deal with the coupling of the unknown model uncertainties and the actuator faults, an adaptive mechanism is designed based on a wisely chosen Lyapunov function. The proposed finite-time FTC scheme, with adaptive laws of uncertain parameters, guarantees the stability of the closed-loop system, and the practical finite-time state tracking property. Then, the algorithm is applied to a flight control system, simulation and comparison results demonstrate the effectiveness and advantages of the designed control scheme."><meta property="og:image" content="/publication/tsmc_finitetime_ftc/featured.png">
+  <meta property="twitter:image" content="/publication/tsmc_finitetime_ftc/featured.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2016-07-06T00:00:00&#43;00:00">
@@ -262,31 +146,32 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/acc_paper/"
+    "@id": "/publication/tsmc_finitetime_ftc/"
   },
   "headline": "On structural property metrics for Model Error of linear systems",
   
   "image": [
-    "/publication/acc_paper/featured.png"
+    "/publication/tsmc_finitetime_ftc/featured.png"
   ],
   
-  "datePublished": "2016-07-06T00:00:00Z",
-  "dateModified": "2016-07-06T00:00:00Z",
+  "datePublished": "2022-12-19T00:00:00Z",
+  "dateModified": "2022-12-19T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Xiaojing Yang"
+    "name": "Xinpeng Fang"
   },
   
   "publisher": {
     "@type": "Organization",
-    "name": "Xuerui Wang",
+    "name": "Xinpeng Fang",
     "logo": {
       "@type": "ImageObject",
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "This paper defines the controllability margin (CM) and observability margin (OM) from the view of singular perturbation and regular perturbation. The model error structure (MES) is proposed as a structural property metric for linear systems based on the novel concepts of singular perturbation margin (SPM) and generalized gain margin (GGM)."
+  "description": "In this article, an adaptive finite-time fault-tolerant control (FTC) strategy is proposed for state tracking of uncertain
+systems subject to actuator faults and input saturation. The actuator faults, which include multiplicative and time-varying additive modes, are allowed to be unknown. To deal with the coupling of the unknown model uncertainties and the actuator faults, an adaptive mechanism is designed based on a wisely chosen Lyapunov function. The proposed finite-time FTC scheme, with adaptive laws of uncertain parameters, guarantees the stability of the closed-loop system, and the practical finite-time state tracking property. Then, the algorithm is applied to a flight control system, simulation and comparison results demonstrate the effectiveness and advantages of the designed control scheme."
 }
 </script>
 
@@ -304,7 +189,7 @@
 
 
 
-  <title>On structural property metrics for Model Error of linear systems | Xuerui Wang</title>
+  <title>Adaptive Finite-Time Fault-Tolerant Control of Uncertain Systems With Input Saturation | Xinpeng Fang</title>
 
 </head>
 
@@ -355,7 +240,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Xuerui Wang</a>
+      <a class="navbar-brand" href="/">Xinpeng Fang</a>
     </div>
     
 
@@ -368,7 +253,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Xuerui Wang</a>
+      <a class="navbar-brand" href="/">Xinpeng Fang</a>
     </div>
     
 
@@ -379,27 +264,6 @@
       
       <ul class="navbar-nav d-md-inline-flex">
         
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
         
 
         <li class="nav-item">
@@ -407,43 +271,11 @@
         </li>
 
         
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
 
         <li class="nav-item">
           <a class="nav-link " href="/research"><span>Projects</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
         
 
         <li class="nav-item">
@@ -452,40 +284,10 @@
 
         
         
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
         <li class="nav-item">
           <a class="nav-link " href="/teaching"><span>Teaching</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
         
         
         
@@ -499,36 +301,10 @@
 
         
 
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
         <li class="nav-item">
           <a class="nav-link " href="/recognitions"><span>Recognitions</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
         
         
         
@@ -538,19 +314,6 @@
           <a class="nav-link " href="/people"><span>People</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
         
         
         
@@ -631,7 +394,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>On structural property metrics for Model Error of linear systems</h1>
+  <h1>Adaptive Finite-Time Fault-Tolerant Control of Uncertain Systems With Input Saturation</h1>
 
   
 
@@ -648,7 +411,7 @@
     
 
   
-  <span >Xiaojing Yang</span>, <span >Xuerui Wang</span>, <span >Changchuan Xie</span>, <span >Jim Zhu</span>
+  <span >Xinpeng Fang</span>, <span >Huijin Fan</span>, <span >Wei Wang</span>, <span >Lei Liu</span>, <span >Bo Wang</span>, <span >Zhongtao Cheng</span>
   </div>
   
   
@@ -716,7 +479,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/acc_paper/cite.bib">
+        data-filename="/publication/tsmc_finitetime_ftc/cite.bib">
   Cite
 </button>
 
@@ -748,7 +511,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 693px; max-height: 586px;">
   <div style="position: relative">
-    <img src="/publication/acc_paper/featured.png" alt="" class="featured-image">
+    <img src="/publication/tsmc_finitetime_ftc/featured.png" alt="" class="featured-image">
     <span class="article-header-caption">A Flexible Beam and the Experiment Devices</span>
   </div>
 </div>
@@ -759,7 +522,8 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Controllability Margin (CM) and Observability Margin (OM) for linear systems, including Linear Time Invariant (LTI) and Linear Time Varying (LTV) systems are defined from the view of singular perturbation and regular perturbation, and the corresponding assessment methods are established. Based on the CM, OM and the recently introduced Singular Perturbation Margin (SPM) and Generalized Gain Margin (GGM), the concept of Model Error Structure (MES) is provided as a structural property metric for linear systems. The results in this paper are illustrated by the examples of a flexible beam and Hill equations.</p>
+    <p class="pub-abstract">In this article, an adaptive finite-time fault-tolerant control (FTC) strategy is proposed for state tracking of uncertain
+systems subject to actuator faults and input saturation. The actuator faults, which include multiplicative and time-varying additive modes, are allowed to be unknown. To deal with the coupling of the unknown model uncertainties and the actuator faults, an adaptive mechanism is designed based on a wisely chosen Lyapunov function. The proposed finite-time FTC scheme, with adaptive laws of uncertain parameters, guarantees the stability of the closed-loop system, and the practical finite-time state tracking property. Then, the algorithm is applied to a flight control system, simulation and comparison results demonstrate the effectiveness and advantages of the designed control scheme.</p>
     
 
     
@@ -836,7 +600,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/acc_paper/&amp;text=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/tsmc_finitetime_ftc/&amp;text=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -849,7 +613,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/acc_paper/&amp;t=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/tsmc_finitetime_ftc/&amp;t=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -862,7 +626,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       
       
       <li>
-        <a href="mailto:?subject=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems&amp;body=/publication/acc_paper/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems&amp;body=/publication/tsmc_finitetime_ftc/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -875,7 +639,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/acc_paper/&amp;title=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/tsmc_finitetime_ftc/&amp;title=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -888,7 +652,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       
       
       <li>
-        <a href="whatsapp://send?text=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems%20/publication/acc_paper/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=On%20structural%20property%20metrics%20for%20Model%20Error%20of%20linear%20systems%20/publication/tsmc_finitetime_ftc/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
